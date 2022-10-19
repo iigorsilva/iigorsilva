@@ -9,7 +9,7 @@ Tenho 29 anos, sempre gostei da tecnologia, ja havia feito alguns cursos voltado
 
 * 🌍  Estou sediado em Marília - SP, Brazil
 * ✉️  Você pode entrar em contato comigo em [igor.csilva@outlook.com](mailto:igor.csilva@outlook.com)
-* 🚀  Atualmente estou trabalhando como Vendedor SDR na Pixel digital (Prestadora de serviços para influencidores digitais)
+* 🚀  Atualmente estou trabalhando como Vendedor na Pixel digital Brasil (Prestadora de serviços para influencidores digitais)
 * 🧠  Estou aprendendo HTML Intermedirio, CSS Intermediario, Javascript e React
 * 🤝  Estou aberto a colaborar em projetos de alto impacto na vida das pessoas
 
