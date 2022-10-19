@@ -4,7 +4,7 @@ Hi 👋 My name is Igor
 Aprendendo a  programar
 -----------------------------
 
-Tenho 29 anos, eu era morista de caminhão, e resolvi vir pra programação, sempre gostei da tecnologia ja havia feito alguns cursos voltado pra Hardware. E com o passar do tempo fui vendo que precisava de mais, que eu ainda tinha tempo e capacidade, foi onde decidar voltar meus estudos e aprender programação.  E Hoje estou estudando HTML, CSS e JAVASCRIPT com o Igor Oliveira [https://programadorbr.com/]. E meu foco pricipal de Inicio é o Front-end, fazendo aplicações que impactam a vida de milhares de usuários.         
+Tenho 29 anos, eu era morista de caminhão, e resolvi vir pra programação, sempre gostei da tecnologia ja havia feito alguns cursos voltado pra Hardware. E com o passar do tempo fui vendo que precisava de mais, que eu ainda tinha tempo e capacidade, foi onde decidar voltar meus estudos e aprender programação.  E Hoje estou estudando HTML, CSS e JAVASCRIPT com o Igor Oliveira [https://programadorbr.com/]. E meu foco principal de Inicio é o Front-end, fazendo aplicações que impactam a vida de milhares de usuários.         
 
 
 * 🌍  Estou sediado em Marília - SP, Brazil
