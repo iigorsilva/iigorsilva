@@ -8,11 +8,11 @@ Tenho 29 anos, eu era morista de caminhão, e resolvi vir pra programação, sem
 
 
 
-* 🌍  I'm based in Marília - SP, Brazil
-* ✉️  You can contact me at [igor.csilva@outlook.com](mailto:igor.csilva@outlook.com)
-* 🚀  I'm currently working on  Pixel digital (Prestadora de serviços para influencers)
-* 🧠  I'm learning  HTML Intermedirio, CSS Intermediario e Javascript
-* 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
+* 🌍  Estou sediado em Marrpilia - SP, Brazil
+* ✉️  Você pode entrar em contato comigo em [igor.csilva@outlook.com](mailto:igor.csilva@outlook.com)
+* 🚀  Atualmente estou trabalhando como Vendedor SDR na Pixel digital (Prestadora de serviços para influencidores digitais)
+* 🧠  Estou aprendendo HTML Intermedirio, CSS Intermediario, Javascript e React
+* 🤝  Estou aberto a colaborar em projetos de alto impacto na vida das pessoas
 
 ### Skills
 
