@@ -27,6 +27,8 @@ Tenho 29 anos, eu era morista de caminhão, e resolvi vir pra programação, sem
   
 </a> <a href="https://www.linkedin.com/in/igor-silva-80b31a245/ " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> 
 
+<a href="https://www.instagram.com/iigorbarboza/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="32" height="32" />
+
 ### Badges
 
 <b>My GitHub Stats</b>
